@@ -1,0 +1,20 @@
+2018-12-29 12:57:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "VERSION" не найдена
+Table "VERSION" not found; SQL statement:
+SELECT next_update FROM PUBLIC.version [42102-196]
+2018-12-29 12:58:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "VERSION" не найдена
+Table "VERSION" not found; SQL statement:
+SELECT next_update FROM BITSWIFT.version [42102-196]
+2018-12-29 12:58:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "VERSION" не найдена
+Table "VERSION" not found; SQL statement:
+SELECT next_update FROM MPG.version [42102-196]
+2018-12-29 12:58:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "VERSION" не найдена
+Table "VERSION" not found; SQL statement:
+SELECT next_update FROM IGNIS.version [42102-196]
+2018-12-29 12:58:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "VERSION" не найдена
+Table "VERSION" not found; SQL statement:
+SELECT next_update FROM AEUR.version [42102-196]

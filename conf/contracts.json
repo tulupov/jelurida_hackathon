@@ -1,0 +1,9 @@
+{
+  "params": {
+    "Bitcoin2IgnisCurrencyExchange":{
+      "minimumBitcoinTxConfirmationsCount":0,
+      "bitcoinReceiverAddress":"mk4gG25cTiof9bLtx7tbTKxmuUf6gjFiBK"
+    }
+
+  }
+}

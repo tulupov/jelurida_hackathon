@@ -1,0 +1,16 @@
+{
+  "contracts": [
+    {
+      "className": "Bitcoin2IgnisCurrencyExchange",
+	  "filePath": "build/libs/exchange.test-1.0-SNAPSHOT.jar",
+      "params": {
+	    }
+    },
+    {
+      "className": "CloudStorageContract",
+      "filePath": "build/libs/exchange.test-1.0-SNAPSHOT.jar",
+      "params": {
+      }
+    }
+  ]
+}
